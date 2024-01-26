@@ -1,7 +1,7 @@
 # 3D drawing editor
 
 This repository contains one of my most recent projects, a 3D drawing editor. 
-The main difficulty was to efficiently update the data in real time on the GPU, since a lot of cells can be empty.
+The main difficulty was to efficiently update the data in real time by doing stream compaction, since a lot of cells can be empty.
 Most of the complexity is hidden inside the shaders because the GPU is used as much as possible rather than the CPU.
 It can render any kind of scalar field, for example, it could render a torus using its signed distance field.
 The grids and the three colored disks are rendered analytically to avoid aliasing.
