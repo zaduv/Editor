@@ -10,8 +10,8 @@ https://github.com/zaduv/Editor/assets/151663578/8f69f479-3a6a-43a6-9ccf-2225b18
 
 # Other projects
 
-I recorded some footage of some other projects I did in the past. I experimented with skeletal animation and different types of shading, as seen here with the obvious cell shading.
-The code is not well maintained as the features piled up on one another over time. It is the predecessor to the 3D drawing editor.
+I recorded some footage of some other projects I did in the past. I experimented with skeletal animation and different types of shading, which can be seen here with the obvious cell shading.
+The code is not well maintained because many features piled up on one another over time. It is the predecessor to the 3D drawing editor.
 
 https://github.com/zaduv/Editor/assets/151663578/933e0b3e-3f93-4a21-8f9b-db6f1abe13b0
 
